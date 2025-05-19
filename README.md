@@ -23,7 +23,9 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
-<figure><embed src="https://wakatime.com/share/@dc9838ca-7db7-455b-a1f7-107c472d4058/21c32de8-8225-4f78-9aa2-4ee7d604e5fe.svg"></embed></figure>
+<div>
+  <figure><embed src="https://wakatime.com/share/@dc9838ca-7db7-455b-a1f7-107c472d4058/21c32de8-8225-4f78-9aa2-4ee7d604e5fe.svg"></embed></figure>
+</div>
   
   ##
  
