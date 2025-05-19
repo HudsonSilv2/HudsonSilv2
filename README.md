@@ -23,6 +23,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?HudsonSilv2=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
   
   ##
  
