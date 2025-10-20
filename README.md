@@ -20,13 +20,6 @@ Estudante universitário focado em construir soluções com **Java**, **MongoDB*
 
 ---
 
-## 🛠️ Projetos em destaque
-
-- [**Taskly**](https://github.com/Hudsonsilv2/Taskly) - Sistema de gerenciamento de tarefas com Java Servlet, MongoDB e TailwindCSS.
-- Projetos acadêmicos diversos com foco em banco de dados, segurança e interfaces web.
-
----
-
 ## 📊 Estatísticas de Atividade
 
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSilv2&show_icons=true&theme=radical)
