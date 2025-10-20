@@ -1,4 +1,4 @@
-# Olá! Eu sou o Hudson (aka "Tom") 👋
+# Olá! Eu sou o Hudson ("Tom") 👋
 
 Estudante universitário focado em construir soluções com **Java**, **MongoDB** e desenvolvimento web. Apaixonado por backend, banco de dados e interfaces responsivas.
 
@@ -11,10 +11,7 @@ Estudante universitário focado em construir soluções com **Java**, **MongoDB*
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://tailwindcss.com/favicon-32x32.png" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Maven" height="30" width="40" src="https://maven.apache.org/images/logos/maven-logo.svg" />
-  <img align="center" alt="Tomcat" height="30" width="40" src="https://tomcat.apache.org/images/tomcat.png" />
 </div>
 
 ---
@@ -31,7 +28,7 @@ Estudante universitário focado em construir soluções com **Java**, **MongoDB*
 ![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonSilv2&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonSilv2&layout=donut)](https://github.com/HudsonSilv2)
 
-![WakaTime stats](https://wakatime.com/share/@dc9838ca-7db7-455b-a1f7-107c472d4058/21c32de8-8225-4f78-9aa2-4ee7d604e5fe.svg)
+![WakaTime stats](<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=HudsonSilv2" alt="GitHub Streak" /></a>)
 
 ---
 
